@@ -3,7 +3,9 @@
 <p>
     With this organization being here, you can check who is the developers of the engine! <br>
     With that being said, Universe Engine is a fork of Psych Engine 0.6.3 that makes Psych Engine modding easier and having a modchart editor. <br>
+    We are a team of people who wants to make FNF modding and gameplay better!
 </p>
+<!-- fucking hope so you dumbass -->
 
 <h3> ⬜ Check the Universe Engine Repository here! </h3>
 <ul>
