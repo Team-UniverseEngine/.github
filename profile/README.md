@@ -64,7 +64,7 @@
 </p>
 
 <h2>
-    Or by joining our <a href="https://discord.gg/RaHmP5fgyA">Discord Server</a>!
+    Or, by joining our <a href="https://discord.gg/RaHmP5fgyA">Discord Server</a>!
 </h2>
 
 <h6>the engine does NOT need a portfolio bro -dave</h6>
