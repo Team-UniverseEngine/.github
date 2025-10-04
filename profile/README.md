@@ -21,7 +21,7 @@
 <!-- Daveberry -->
 <p>
     <h3>
-        <img src="https://daveberry.netlify.app/daveberry/dave.png" width="25">
+        <img src="https://daveberry.netlify.app/assets/main/dave.png" width="25">
         Daveberry
     </h3>
     <ul>
