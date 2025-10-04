@@ -10,7 +10,7 @@
 <h3> ⬜ Check the Universe Engine Repository here! </h3>
 <ul>
     <li> <a href="https://github.com/Team-UniverseEngine/Universe-Engine"> Universe Engine </a> <br> </li>
-    <li> <a href="https://github.com/Team-UniverseEngine/Universe-Engine-Launhcer"> Universe Engine Launhcer </a> <br> </li>
+    <li> <a href="https://github.com/Team-UniverseEngine/Universe-Engine-Launcher"> Universe Engine Launcher </a> <br> </li>
     <li> <a href="https://github.com/Team-UniverseEngine/Universe-Website"> Universe Engine Website </a> <br> </li>
     <li> <a href="https://github.com/VideoBotYT/Universe-Engine-Bonus-Songs"> Universe Engine Bonus Songs </a> (probably discontinued) </li>
 </ul>
